@@ -1,2 +1,4 @@
 venv/
 dataset/
+config.py
+__pycache__/
