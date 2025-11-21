@@ -99,11 +99,11 @@ def periodic_spei(data):
     df["D"] = df["PRCP"] - df["PET"]
     weekly = df.resample("W-SUN", on="Date").sum()
     weekly["D"] = weekly["PRCP"] - weekly["PET"]
-    weekly["SPEI_1w"] = compute_spei_series(weekly["D"], scale=1)
+    weekly["SPEI_1W"] = compute_spei_series(weekly["D"], scale=1)
     monthly = df.resample("MS", on="Date").sum()
     monthly["D"] = monthly["PRCP"] - monthly["PET"]
     for k in [1, 3, 6, 12]:
-        monthly[f"SPEI_{k}m"] = compute_spei_series(monthly["D"], scale=k)
+        monthly[f"SPEI_{k}M"] = compute_spei_series(monthly["D"], scale=k)
     return weekly, monthly
 
 

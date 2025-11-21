@@ -27,7 +27,7 @@ def calculate_shi(data, window=15):
 
 def shi(data, threshold_shi=1):
     data['SHI'] = calculate_shi(data)
-    data['SHI_Heatwave'] = (data['SHI'] >= threshold_shi).astype(int)
+    # data['SHI_Heatwave'] = (data['SHI'] >= threshold_shi).astype(int)
     return data
 
 def ehf(data, percentile=95, window_rolling=30, threshold_ehf=0):
@@ -38,7 +38,7 @@ def ehf(data, percentile=95, window_rolling=30, threshold_ehf=0):
     data['Tmean_30day_avg'] = data['Tmean'].rolling(window=30).mean()
     data['EHI_accl'] = data['Tmean_3day_avg'] - data['Tmean_30day_avg']
     data['EHF'] = data['EHI_sig'] * np.maximum(data['EHI_accl'], 1)
-    data['EHF_Heatwave'] = (data['EHF'] >= threshold_ehf).astype(int)
+    # data['EHF_Heatwave'] = (data['EHF'] >= threshold_ehf).astype(int)
     return data.drop(['Tmean', 'Tmean_3day_avg', 'Tmean_30day_avg', 'EHI_sig', 'EHI_accl'], axis=1)
 
 df = load_data("../dataset/climate_features.csv")
