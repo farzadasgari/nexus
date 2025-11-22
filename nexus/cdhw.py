@@ -27,4 +27,19 @@ def sp(data, Nd=15):
     return data
 
 for Nd in [15, 30, 45, 60, 90]: data = sp(data, Nd)
-    
+
+data['year'] = data.index.year
+data['doy'] = data.index.dayofyear
+
+Nd = 15
+sp_col = f'SP_{Nd}'
+
+qi_dict = {}
+for doy, group in data.groupby('doy'):
+    values = group[sp_col].dropna().values
+    if len(values) == 0:
+        continue
+    M = group['year'].nunique()
+    Zi = np.sum(values == 0)
+    qi = Zi / M
+    qi_dict[doy] = np.around(qi, 4)
