@@ -129,5 +129,5 @@ def spi(data, Nd, day_params):
 
 for Nd in Nd_list:
     day_params = fit_distributions_per_doy(data, Nd=Nd)
-    data = compute_spi_for_Nd(data, Nd=Nd, day_params=day_params)
+    data = spi(data, Nd=Nd, day_params=day_params)
     data.to_csv("../dataset/cdhw_spi.csv")
