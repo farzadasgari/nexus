@@ -17,3 +17,14 @@ for year in leap_years:
 data = data[~((data.index.month == 2) & (data.index.day == 29))]
 
 data['TMEAN'] = data[['TMAX', 'TMIN']].mean(axis=1)
+
+def sp(data, Nd=15):
+    data[f'SP_{Nd}'] = (
+        data['PRCP']
+        .rolling(window=Nd, min_periods=Nd)
+        .sum()
+    )
+    return data
+
+for Nd in [15, 30, 45, 60, 90]: data = sp(data, Nd)
+    
