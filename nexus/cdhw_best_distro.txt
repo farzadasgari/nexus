@@ -1,0 +1,3720 @@
+Best distributions for SPI (Nd=15):
+doy=1: best_dist=burr
+doy=2: best_dist=burr
+doy=3: best_dist=gamma
+doy=4: best_dist=burr
+doy=5: best_dist=gamma
+doy=6: best_dist=gamma
+doy=7: best_dist=gamma
+doy=8: best_dist=gamma
+doy=9: best_dist=burr
+doy=10: best_dist=gamma
+doy=11: best_dist=burr
+doy=12: best_dist=gamma
+doy=13: best_dist=burr
+doy=14: best_dist=burr
+doy=15: best_dist=gamma
+doy=16: best_dist=gamma
+doy=17: best_dist=burr
+doy=18: best_dist=gamma
+doy=19: best_dist=burr
+doy=20: best_dist=gamma
+doy=21: best_dist=burr
+doy=22: best_dist=burr
+doy=23: best_dist=burr
+doy=24: best_dist=burr
+doy=25: best_dist=burr
+doy=26: best_dist=burr
+doy=27: best_dist=burr
+doy=28: best_dist=burr
+doy=29: best_dist=burr
+doy=30: best_dist=burr
+doy=31: best_dist=burr
+doy=32: best_dist=gamma
+doy=33: best_dist=burr
+doy=34: best_dist=burr
+doy=35: best_dist=gamma
+doy=36: best_dist=burr
+doy=37: best_dist=burr
+doy=38: best_dist=burr
+doy=39: best_dist=burr
+doy=40: best_dist=gamma
+doy=41: best_dist=burr
+doy=42: best_dist=gamma
+doy=43: best_dist=burr
+doy=44: best_dist=burr
+doy=45: best_dist=gamma
+doy=46: best_dist=gamma
+doy=47: best_dist=burr
+doy=48: best_dist=gamma
+doy=49: best_dist=burr
+doy=50: best_dist=burr
+doy=51: best_dist=gamma
+doy=52: best_dist=gamma
+doy=53: best_dist=gamma
+doy=54: best_dist=burr
+doy=55: best_dist=gamma
+doy=56: best_dist=gamma
+doy=57: best_dist=burr
+doy=58: best_dist=burr
+doy=59: best_dist=burr
+doy=60: best_dist=gamma
+doy=61: best_dist=gamma
+doy=62: best_dist=burr
+doy=63: best_dist=burr
+doy=64: best_dist=burr
+doy=65: best_dist=gamma
+doy=66: best_dist=gamma
+doy=67: best_dist=gamma
+doy=68: best_dist=burr
+doy=69: best_dist=burr
+doy=70: best_dist=gamma
+doy=71: best_dist=gamma
+doy=72: best_dist=gamma
+doy=73: best_dist=gamma
+doy=74: best_dist=burr
+doy=75: best_dist=burr
+doy=76: best_dist=gamma
+doy=77: best_dist=gamma
+doy=78: best_dist=gamma
+doy=79: best_dist=gamma
+doy=80: best_dist=gamma
+doy=81: best_dist=burr
+doy=82: best_dist=burr
+doy=83: best_dist=burr
+doy=84: best_dist=burr
+doy=85: best_dist=burr
+doy=86: best_dist=gamma
+doy=87: best_dist=burr
+doy=88: best_dist=burr
+doy=89: best_dist=gamma
+doy=90: best_dist=gamma
+doy=91: best_dist=burr
+doy=92: best_dist=gamma
+doy=93: best_dist=burr
+doy=94: best_dist=gamma
+doy=95: best_dist=gamma
+doy=96: best_dist=burr
+doy=97: best_dist=burr
+doy=98: best_dist=burr
+doy=99: best_dist=burr
+doy=100: best_dist=gamma
+doy=101: best_dist=burr
+doy=102: best_dist=gamma
+doy=103: best_dist=gamma
+doy=104: best_dist=gamma
+doy=105: best_dist=burr
+doy=106: best_dist=gamma
+doy=107: best_dist=gamma
+doy=108: best_dist=burr
+doy=109: best_dist=burr
+doy=110: best_dist=gamma
+doy=111: best_dist=burr
+doy=112: best_dist=burr
+doy=113: best_dist=burr
+doy=114: best_dist=burr
+doy=115: best_dist=gamma
+doy=116: best_dist=burr
+doy=117: best_dist=gamma
+doy=118: best_dist=burr
+doy=119: best_dist=burr
+doy=120: best_dist=burr
+doy=121: best_dist=burr
+doy=122: best_dist=burr
+doy=123: best_dist=burr
+doy=124: best_dist=gamma
+doy=125: best_dist=gamma
+doy=126: best_dist=gamma
+doy=127: best_dist=burr
+doy=128: best_dist=gamma
+doy=129: best_dist=burr
+doy=130: best_dist=burr
+doy=131: best_dist=burr
+doy=132: best_dist=burr
+doy=133: best_dist=burr
+doy=134: best_dist=gamma
+doy=135: best_dist=burr
+doy=136: best_dist=gamma
+doy=137: best_dist=burr
+doy=138: best_dist=burr
+doy=139: best_dist=burr
+doy=140: best_dist=gamma
+doy=141: best_dist=burr
+doy=142: best_dist=burr
+doy=143: best_dist=burr
+doy=144: best_dist=gamma
+doy=145: best_dist=burr
+doy=146: best_dist=gamma
+doy=147: best_dist=burr
+doy=148: best_dist=gamma
+doy=149: best_dist=gamma
+doy=150: best_dist=burr
+doy=151: best_dist=gamma
+doy=152: best_dist=burr
+doy=153: best_dist=burr
+doy=154: best_dist=burr
+doy=155: best_dist=burr
+doy=156: best_dist=gamma
+doy=157: best_dist=gamma
+doy=158: best_dist=gamma
+doy=159: best_dist=gamma
+doy=160: best_dist=burr
+doy=161: best_dist=gamma
+doy=162: best_dist=gamma
+doy=163: best_dist=gamma
+doy=164: best_dist=burr
+doy=165: best_dist=burr
+doy=166: best_dist=gamma
+doy=167: best_dist=burr
+doy=168: best_dist=gamma
+doy=169: best_dist=burr
+doy=170: best_dist=burr
+doy=171: best_dist=burr
+doy=172: best_dist=gamma
+doy=173: best_dist=burr
+doy=174: best_dist=burr
+doy=175: best_dist=gamma
+doy=176: best_dist=gamma
+doy=177: best_dist=gamma
+doy=178: best_dist=gamma
+doy=179: best_dist=gamma
+doy=180: best_dist=gamma
+doy=181: best_dist=gamma
+doy=182: best_dist=gamma
+doy=183: best_dist=gamma
+doy=184: best_dist=gamma
+doy=185: best_dist=burr
+doy=186: best_dist=fisk
+doy=187: best_dist=fisk
+doy=188: best_dist=gamma
+doy=189: best_dist=gamma
+doy=190: best_dist=gamma
+doy=191: best_dist=gamma
+doy=192: best_dist=gamma
+doy=193: best_dist=gamma
+doy=194: best_dist=gamma
+doy=195: best_dist=lognorm
+doy=196: best_dist=burr
+doy=197: best_dist=gamma
+doy=199: best_dist=gamma
+doy=201: best_dist=gamma
+doy=202: best_dist=gamma
+doy=210: best_dist=lognorm
+doy=211: best_dist=gamma
+doy=212: best_dist=burr
+doy=213: best_dist=burr
+doy=214: best_dist=lognorm
+doy=215: best_dist=burr
+doy=216: best_dist=gamma
+doy=217: best_dist=gamma
+doy=218: best_dist=gamma
+doy=219: best_dist=lognorm
+doy=220: best_dist=gamma
+doy=221: best_dist=lognorm
+doy=222: best_dist=gamma
+doy=223: best_dist=gamma
+doy=224: best_dist=gamma
+doy=225: best_dist=gamma
+doy=226: best_dist=lognorm
+doy=227: best_dist=gamma
+doy=228: best_dist=lognorm
+doy=229: best_dist=lognorm
+doy=230: best_dist=lognorm
+doy=231: best_dist=gamma
+doy=232: best_dist=gamma
+doy=233: best_dist=gamma
+doy=234: best_dist=lognorm
+doy=235: best_dist=gamma
+doy=236: best_dist=burr
+doy=237: best_dist=gamma
+doy=238: best_dist=gamma
+doy=239: best_dist=burr
+doy=240: best_dist=gamma
+doy=241: best_dist=gamma
+doy=242: best_dist=gamma
+doy=243: best_dist=gamma
+doy=244: best_dist=burr
+doy=245: best_dist=gamma
+doy=246: best_dist=burr
+doy=247: best_dist=burr
+doy=248: best_dist=gamma
+doy=249: best_dist=gamma
+doy=250: best_dist=burr
+doy=251: best_dist=burr
+doy=252: best_dist=gamma
+doy=253: best_dist=gamma
+doy=254: best_dist=gamma
+doy=255: best_dist=gamma
+doy=256: best_dist=gamma
+doy=257: best_dist=gamma
+doy=258: best_dist=burr
+doy=259: best_dist=gamma
+doy=260: best_dist=gamma
+doy=261: best_dist=burr
+doy=262: best_dist=gamma
+doy=263: best_dist=gamma
+doy=264: best_dist=gamma
+doy=265: best_dist=burr
+doy=266: best_dist=burr
+doy=267: best_dist=gamma
+doy=268: best_dist=gamma
+doy=269: best_dist=gamma
+doy=270: best_dist=gamma
+doy=271: best_dist=burr
+doy=272: best_dist=burr
+doy=273: best_dist=burr
+doy=274: best_dist=gamma
+doy=275: best_dist=burr
+doy=276: best_dist=burr
+doy=277: best_dist=burr
+doy=278: best_dist=burr
+doy=279: best_dist=burr
+doy=280: best_dist=burr
+doy=281: best_dist=gamma
+doy=282: best_dist=burr
+doy=283: best_dist=gamma
+doy=284: best_dist=gamma
+doy=285: best_dist=burr
+doy=286: best_dist=burr
+doy=287: best_dist=burr
+doy=288: best_dist=burr
+doy=289: best_dist=burr
+doy=290: best_dist=burr
+doy=291: best_dist=burr
+doy=292: best_dist=burr
+doy=293: best_dist=burr
+doy=294: best_dist=burr
+doy=295: best_dist=burr
+doy=296: best_dist=burr
+doy=297: best_dist=burr
+doy=298: best_dist=burr
+doy=299: best_dist=burr
+doy=300: best_dist=gamma
+doy=301: best_dist=burr
+doy=302: best_dist=burr
+doy=303: best_dist=burr
+doy=304: best_dist=burr
+doy=305: best_dist=burr
+doy=306: best_dist=gamma
+doy=307: best_dist=gamma
+doy=308: best_dist=burr
+doy=309: best_dist=burr
+doy=310: best_dist=burr
+doy=311: best_dist=burr
+doy=312: best_dist=gamma
+doy=313: best_dist=gamma
+doy=314: best_dist=burr
+doy=315: best_dist=gamma
+doy=316: best_dist=gamma
+doy=317: best_dist=gamma
+doy=318: best_dist=burr
+doy=319: best_dist=gamma
+doy=320: best_dist=burr
+doy=321: best_dist=gamma
+doy=322: best_dist=gamma
+doy=323: best_dist=burr
+doy=324: best_dist=burr
+doy=325: best_dist=gamma
+doy=326: best_dist=burr
+doy=327: best_dist=gamma
+doy=328: best_dist=gamma
+doy=329: best_dist=burr
+doy=330: best_dist=gamma
+doy=331: best_dist=burr
+doy=332: best_dist=gamma
+doy=333: best_dist=burr
+doy=334: best_dist=burr
+doy=335: best_dist=burr
+doy=336: best_dist=gamma
+doy=337: best_dist=gamma
+doy=338: best_dist=expon
+doy=339: best_dist=burr
+doy=340: best_dist=burr
+doy=341: best_dist=gamma
+doy=342: best_dist=burr
+doy=343: best_dist=burr
+doy=344: best_dist=gamma
+doy=345: best_dist=burr
+doy=346: best_dist=burr
+doy=347: best_dist=burr
+doy=348: best_dist=burr
+doy=349: best_dist=burr
+doy=350: best_dist=burr
+doy=351: best_dist=burr
+doy=352: best_dist=burr
+doy=353: best_dist=burr
+doy=354: best_dist=burr
+doy=355: best_dist=burr
+doy=356: best_dist=gamma
+doy=357: best_dist=burr
+doy=358: best_dist=burr
+doy=359: best_dist=burr
+doy=360: best_dist=burr
+doy=361: best_dist=burr
+doy=362: best_dist=burr
+doy=363: best_dist=burr
+doy=364: best_dist=burr
+doy=365: best_dist=burr
+doy=366: best_dist=gamma
+
+Best distributions for SPI (Nd=30):
+doy=1: best_dist=burr
+doy=2: best_dist=gamma
+doy=3: best_dist=gamma
+doy=4: best_dist=gamma
+doy=5: best_dist=gamma
+doy=6: best_dist=expon
+doy=7: best_dist=burr
+doy=8: best_dist=gamma
+doy=9: best_dist=burr
+doy=10: best_dist=burr
+doy=11: best_dist=burr
+doy=12: best_dist=burr
+doy=13: best_dist=burr
+doy=14: best_dist=burr
+doy=15: best_dist=burr
+doy=16: best_dist=burr
+doy=17: best_dist=burr
+doy=18: best_dist=gamma
+doy=19: best_dist=burr
+doy=20: best_dist=burr
+doy=21: best_dist=burr
+doy=22: best_dist=burr
+doy=23: best_dist=burr
+doy=24: best_dist=burr
+doy=25: best_dist=burr
+doy=26: best_dist=burr
+doy=27: best_dist=burr
+doy=28: best_dist=burr
+doy=29: best_dist=gamma
+doy=30: best_dist=burr
+doy=31: best_dist=burr
+doy=32: best_dist=burr
+doy=33: best_dist=burr
+doy=34: best_dist=burr
+doy=35: best_dist=expon
+doy=36: best_dist=burr
+doy=37: best_dist=burr
+doy=38: best_dist=burr
+doy=39: best_dist=gamma
+doy=40: best_dist=gamma
+doy=41: best_dist=burr
+doy=42: best_dist=burr
+doy=43: best_dist=burr
+doy=44: best_dist=burr
+doy=45: best_dist=burr
+doy=46: best_dist=burr
+doy=47: best_dist=burr
+doy=48: best_dist=burr
+doy=49: best_dist=burr
+doy=50: best_dist=burr
+doy=51: best_dist=burr
+doy=52: best_dist=burr
+doy=53: best_dist=burr
+doy=54: best_dist=expon
+doy=55: best_dist=burr
+doy=56: best_dist=burr
+doy=57: best_dist=burr
+doy=58: best_dist=burr
+doy=59: best_dist=gamma
+doy=60: best_dist=gamma
+doy=61: best_dist=burr
+doy=62: best_dist=burr
+doy=63: best_dist=expon
+doy=64: best_dist=gamma
+doy=65: best_dist=burr
+doy=66: best_dist=burr
+doy=67: best_dist=burr
+doy=68: best_dist=burr
+doy=69: best_dist=gamma
+doy=70: best_dist=gamma
+doy=71: best_dist=gamma
+doy=72: best_dist=burr
+doy=73: best_dist=burr
+doy=74: best_dist=burr
+doy=75: best_dist=burr
+doy=76: best_dist=burr
+doy=77: best_dist=burr
+doy=78: best_dist=burr
+doy=79: best_dist=burr
+doy=80: best_dist=gamma
+doy=81: best_dist=gamma
+doy=82: best_dist=gamma
+doy=83: best_dist=gamma
+doy=84: best_dist=gamma
+doy=85: best_dist=expon
+doy=86: best_dist=expon
+doy=87: best_dist=expon
+doy=88: best_dist=expon
+doy=89: best_dist=expon
+doy=90: best_dist=expon
+doy=91: best_dist=burr
+doy=92: best_dist=burr
+doy=93: best_dist=gamma
+doy=94: best_dist=burr
+doy=95: best_dist=burr
+doy=96: best_dist=burr
+doy=97: best_dist=burr
+doy=98: best_dist=gamma
+doy=99: best_dist=burr
+doy=100: best_dist=burr
+doy=101: best_dist=burr
+doy=102: best_dist=burr
+doy=103: best_dist=burr
+doy=104: best_dist=expon
+doy=105: best_dist=gamma
+doy=106: best_dist=expon
+doy=107: best_dist=expon
+doy=108: best_dist=burr
+doy=109: best_dist=expon
+doy=110: best_dist=expon
+doy=111: best_dist=burr
+doy=112: best_dist=burr
+doy=113: best_dist=burr
+doy=114: best_dist=burr
+doy=115: best_dist=expon
+doy=116: best_dist=burr
+doy=117: best_dist=expon
+doy=118: best_dist=burr
+doy=119: best_dist=burr
+doy=120: best_dist=burr
+doy=121: best_dist=gamma
+doy=122: best_dist=burr
+doy=123: best_dist=gamma
+doy=124: best_dist=gamma
+doy=125: best_dist=burr
+doy=126: best_dist=burr
+doy=127: best_dist=gamma
+doy=128: best_dist=burr
+doy=129: best_dist=burr
+doy=130: best_dist=burr
+doy=131: best_dist=burr
+doy=132: best_dist=burr
+doy=133: best_dist=burr
+doy=134: best_dist=burr
+doy=135: best_dist=burr
+doy=136: best_dist=burr
+doy=137: best_dist=burr
+doy=138: best_dist=gamma
+doy=139: best_dist=burr
+doy=140: best_dist=burr
+doy=141: best_dist=burr
+doy=142: best_dist=burr
+doy=143: best_dist=burr
+doy=144: best_dist=gamma
+doy=145: best_dist=gamma
+doy=146: best_dist=burr
+doy=147: best_dist=burr
+doy=148: best_dist=burr
+doy=149: best_dist=burr
+doy=150: best_dist=burr
+doy=151: best_dist=burr
+doy=152: best_dist=gamma
+doy=153: best_dist=burr
+doy=154: best_dist=burr
+doy=155: best_dist=burr
+doy=156: best_dist=burr
+doy=157: best_dist=burr
+doy=158: best_dist=gamma
+doy=159: best_dist=burr
+doy=160: best_dist=burr
+doy=161: best_dist=gamma
+doy=162: best_dist=gamma
+doy=163: best_dist=burr
+doy=164: best_dist=gamma
+doy=165: best_dist=burr
+doy=166: best_dist=burr
+doy=167: best_dist=gamma
+doy=168: best_dist=burr
+doy=169: best_dist=burr
+doy=170: best_dist=gamma
+doy=171: best_dist=burr
+doy=172: best_dist=burr
+doy=173: best_dist=burr
+doy=174: best_dist=burr
+doy=175: best_dist=burr
+doy=176: best_dist=burr
+doy=177: best_dist=burr
+doy=178: best_dist=gamma
+doy=179: best_dist=burr
+doy=180: best_dist=burr
+doy=181: best_dist=gamma
+doy=182: best_dist=gamma
+doy=183: best_dist=burr
+doy=184: best_dist=burr
+doy=185: best_dist=gamma
+doy=186: best_dist=burr
+doy=187: best_dist=burr
+doy=188: best_dist=burr
+doy=189: best_dist=burr
+doy=190: best_dist=burr
+doy=191: best_dist=gamma
+doy=192: best_dist=gamma
+doy=193: best_dist=gamma
+doy=194: best_dist=burr
+doy=195: best_dist=gamma
+doy=196: best_dist=gamma
+doy=197: best_dist=gamma
+doy=198: best_dist=gamma
+doy=199: best_dist=gamma
+doy=200: best_dist=gamma
+doy=201: best_dist=gamma
+doy=202: best_dist=gamma
+doy=203: best_dist=gamma
+doy=204: best_dist=gamma
+doy=205: best_dist=gamma
+doy=206: best_dist=gamma
+doy=207: best_dist=gamma
+doy=208: best_dist=gamma
+doy=209: best_dist=gamma
+doy=210: best_dist=lognorm
+doy=211: best_dist=burr
+doy=212: best_dist=fisk
+doy=213: best_dist=burr
+doy=214: best_dist=burr
+doy=215: best_dist=lognorm
+doy=216: best_dist=fisk
+doy=217: best_dist=burr
+doy=218: best_dist=lognorm
+doy=219: best_dist=lognorm
+doy=220: best_dist=gamma
+doy=221: best_dist=gamma
+doy=222: best_dist=gamma
+doy=223: best_dist=gamma
+doy=224: best_dist=fisk
+doy=225: best_dist=fisk
+doy=226: best_dist=burr
+doy=227: best_dist=fisk
+doy=228: best_dist=gamma
+doy=229: best_dist=gamma
+doy=230: best_dist=gamma
+doy=231: best_dist=fisk
+doy=232: best_dist=lognorm
+doy=233: best_dist=gamma
+doy=234: best_dist=gamma
+doy=235: best_dist=gamma
+doy=236: best_dist=gamma
+doy=237: best_dist=gamma
+doy=238: best_dist=gamma
+doy=239: best_dist=gamma
+doy=240: best_dist=gamma
+doy=241: best_dist=gamma
+doy=242: best_dist=gamma
+doy=243: best_dist=burr
+doy=244: best_dist=gamma
+doy=245: best_dist=gamma
+doy=246: best_dist=burr
+doy=247: best_dist=burr
+doy=248: best_dist=gamma
+doy=249: best_dist=gamma
+doy=250: best_dist=gamma
+doy=251: best_dist=burr
+doy=252: best_dist=gamma
+doy=253: best_dist=gamma
+doy=254: best_dist=gamma
+doy=255: best_dist=burr
+doy=256: best_dist=gamma
+doy=257: best_dist=burr
+doy=258: best_dist=gamma
+doy=259: best_dist=burr
+doy=260: best_dist=gamma
+doy=261: best_dist=burr
+doy=262: best_dist=gamma
+doy=263: best_dist=gamma
+doy=264: best_dist=burr
+doy=265: best_dist=gamma
+doy=266: best_dist=gamma
+doy=267: best_dist=burr
+doy=268: best_dist=gamma
+doy=269: best_dist=burr
+doy=270: best_dist=gamma
+doy=271: best_dist=burr
+doy=272: best_dist=burr
+doy=273: best_dist=burr
+doy=274: best_dist=burr
+doy=275: best_dist=gamma
+doy=276: best_dist=burr
+doy=277: best_dist=gamma
+doy=278: best_dist=burr
+doy=279: best_dist=gamma
+doy=280: best_dist=burr
+doy=281: best_dist=gamma
+doy=282: best_dist=burr
+doy=283: best_dist=gamma
+doy=284: best_dist=gamma
+doy=285: best_dist=burr
+doy=286: best_dist=burr
+doy=287: best_dist=burr
+doy=288: best_dist=burr
+doy=289: best_dist=burr
+doy=290: best_dist=burr
+doy=291: best_dist=burr
+doy=292: best_dist=burr
+doy=293: best_dist=gamma
+doy=294: best_dist=burr
+doy=295: best_dist=burr
+doy=296: best_dist=burr
+doy=297: best_dist=burr
+doy=298: best_dist=burr
+doy=299: best_dist=burr
+doy=300: best_dist=burr
+doy=301: best_dist=burr
+doy=302: best_dist=burr
+doy=303: best_dist=burr
+doy=304: best_dist=burr
+doy=305: best_dist=burr
+doy=306: best_dist=burr
+doy=307: best_dist=burr
+doy=308: best_dist=burr
+doy=309: best_dist=burr
+doy=310: best_dist=burr
+doy=311: best_dist=burr
+doy=312: best_dist=burr
+doy=313: best_dist=burr
+doy=314: best_dist=burr
+doy=315: best_dist=burr
+doy=316: best_dist=burr
+doy=317: best_dist=burr
+doy=318: best_dist=burr
+doy=319: best_dist=burr
+doy=320: best_dist=burr
+doy=321: best_dist=burr
+doy=322: best_dist=burr
+doy=323: best_dist=burr
+doy=324: best_dist=burr
+doy=325: best_dist=burr
+doy=326: best_dist=burr
+doy=327: best_dist=burr
+doy=328: best_dist=gamma
+doy=329: best_dist=gamma
+doy=330: best_dist=burr
+doy=331: best_dist=burr
+doy=332: best_dist=burr
+doy=333: best_dist=burr
+doy=334: best_dist=gamma
+doy=335: best_dist=burr
+doy=336: best_dist=burr
+doy=337: best_dist=burr
+doy=338: best_dist=gamma
+doy=339: best_dist=burr
+doy=340: best_dist=burr
+doy=341: best_dist=burr
+doy=342: best_dist=expon
+doy=343: best_dist=expon
+doy=344: best_dist=burr
+doy=345: best_dist=burr
+doy=346: best_dist=burr
+doy=347: best_dist=burr
+doy=348: best_dist=burr
+doy=349: best_dist=burr
+doy=350: best_dist=burr
+doy=351: best_dist=burr
+doy=352: best_dist=burr
+doy=353: best_dist=burr
+doy=354: best_dist=burr
+doy=355: best_dist=burr
+doy=356: best_dist=burr
+doy=357: best_dist=burr
+doy=358: best_dist=burr
+doy=359: best_dist=burr
+doy=360: best_dist=burr
+doy=361: best_dist=burr
+doy=362: best_dist=burr
+doy=363: best_dist=burr
+doy=364: best_dist=burr
+doy=365: best_dist=gamma
+doy=366: best_dist=gamma
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+
+Best distributions for SPI (Nd=45):
+doy=1: best_dist=burr
+doy=2: best_dist=burr
+doy=3: best_dist=burr
+doy=4: best_dist=burr
+doy=5: best_dist=burr
+doy=6: best_dist=burr
+doy=7: best_dist=burr
+doy=8: best_dist=burr
+doy=9: best_dist=burr
+doy=10: best_dist=burr
+doy=11: best_dist=burr
+doy=12: best_dist=burr
+doy=13: best_dist=gamma
+doy=14: best_dist=gamma
+doy=15: best_dist=gamma
+doy=16: best_dist=burr
+doy=17: best_dist=burr
+doy=18: best_dist=burr
+doy=19: best_dist=burr
+doy=20: best_dist=gamma
+doy=21: best_dist=burr
+doy=22: best_dist=gamma
+doy=23: best_dist=gamma
+doy=24: best_dist=gamma
+doy=25: best_dist=gamma
+doy=26: best_dist=gamma
+doy=27: best_dist=gamma
+doy=28: best_dist=gamma
+doy=29: best_dist=gamma
+doy=30: best_dist=gamma
+doy=31: best_dist=burr
+doy=32: best_dist=burr
+doy=33: best_dist=burr
+doy=34: best_dist=burr
+doy=35: best_dist=burr
+doy=36: best_dist=burr
+doy=37: best_dist=burr
+doy=38: best_dist=gamma
+doy=39: best_dist=burr
+doy=40: best_dist=gamma
+doy=41: best_dist=gamma
+doy=42: best_dist=gumbel_r
+doy=43: best_dist=gamma
+doy=44: best_dist=gamma
+doy=45: best_dist=burr
+doy=46: best_dist=gamma
+doy=47: best_dist=burr
+doy=48: best_dist=burr
+doy=49: best_dist=gamma
+doy=50: best_dist=gamma
+doy=51: best_dist=gamma
+doy=52: best_dist=gamma
+doy=53: best_dist=gamma
+doy=54: best_dist=burr
+doy=55: best_dist=burr
+doy=56: best_dist=burr
+doy=57: best_dist=burr
+doy=58: best_dist=gamma
+doy=59: best_dist=gamma
+doy=60: best_dist=burr
+doy=61: best_dist=gamma
+doy=62: best_dist=burr
+doy=63: best_dist=burr
+doy=64: best_dist=burr
+doy=65: best_dist=burr
+doy=66: best_dist=burr
+doy=67: best_dist=burr
+doy=68: best_dist=burr
+doy=69: best_dist=burr
+doy=70: best_dist=burr
+doy=71: best_dist=burr
+doy=72: best_dist=burr
+doy=73: best_dist=burr
+doy=74: best_dist=burr
+doy=75: best_dist=burr
+doy=76: best_dist=gamma
+doy=77: best_dist=burr
+doy=78: best_dist=burr
+doy=79: best_dist=burr
+doy=80: best_dist=burr
+doy=81: best_dist=burr
+doy=82: best_dist=burr
+doy=83: best_dist=gamma
+doy=84: best_dist=burr
+doy=85: best_dist=burr
+doy=86: best_dist=burr
+doy=87: best_dist=burr
+doy=88: best_dist=gamma
+doy=89: best_dist=burr
+doy=90: best_dist=gamma
+doy=91: best_dist=burr
+doy=92: best_dist=gamma
+doy=93: best_dist=gamma
+doy=94: best_dist=gamma
+doy=95: best_dist=gamma
+doy=96: best_dist=gamma
+doy=97: best_dist=gamma
+doy=98: best_dist=gamma
+doy=99: best_dist=gamma
+doy=100: best_dist=gamma
+doy=101: best_dist=gamma
+doy=102: best_dist=gamma
+doy=103: best_dist=gamma
+doy=104: best_dist=burr
+doy=105: best_dist=gamma
+doy=106: best_dist=gamma
+doy=107: best_dist=expon
+doy=108: best_dist=expon
+doy=109: best_dist=expon
+doy=110: best_dist=burr
+doy=111: best_dist=burr
+doy=112: best_dist=burr
+doy=113: best_dist=burr
+doy=114: best_dist=gamma
+doy=115: best_dist=gamma
+doy=116: best_dist=burr
+doy=117: best_dist=burr
+doy=118: best_dist=gamma
+doy=119: best_dist=gamma
+doy=120: best_dist=gamma
+doy=121: best_dist=burr
+doy=122: best_dist=expon
+doy=123: best_dist=expon
+doy=124: best_dist=burr
+doy=125: best_dist=expon
+doy=126: best_dist=expon
+doy=127: best_dist=burr
+doy=128: best_dist=burr
+doy=129: best_dist=burr
+doy=130: best_dist=burr
+doy=131: best_dist=burr
+doy=132: best_dist=burr
+doy=133: best_dist=burr
+doy=134: best_dist=burr
+doy=135: best_dist=burr
+doy=136: best_dist=burr
+doy=137: best_dist=burr
+doy=138: best_dist=burr
+doy=139: best_dist=burr
+doy=140: best_dist=burr
+doy=141: best_dist=burr
+doy=142: best_dist=burr
+doy=143: best_dist=burr
+doy=144: best_dist=burr
+doy=145: best_dist=burr
+doy=146: best_dist=burr
+doy=147: best_dist=burr
+doy=148: best_dist=burr
+doy=149: best_dist=burr
+doy=150: best_dist=gamma
+doy=151: best_dist=burr
+doy=152: best_dist=gamma
+doy=153: best_dist=burr
+doy=154: best_dist=gamma
+doy=155: best_dist=burr
+doy=156: best_dist=burr
+doy=157: best_dist=burr
+doy=158: best_dist=burr
+doy=159: best_dist=burr
+doy=160: best_dist=gamma
+doy=161: best_dist=burr
+doy=162: best_dist=gamma
+doy=163: best_dist=burr
+doy=164: best_dist=burr
+doy=165: best_dist=burr
+doy=166: best_dist=burr
+doy=167: best_dist=burr
+doy=168: best_dist=burr
+doy=169: best_dist=burr
+doy=170: best_dist=burr
+doy=171: best_dist=burr
+doy=172: best_dist=burr
+doy=173: best_dist=burr
+doy=174: best_dist=burr
+doy=175: best_dist=burr
+doy=176: best_dist=gamma
+doy=177: best_dist=burr
+doy=178: best_dist=burr
+doy=179: best_dist=burr
+doy=180: best_dist=gamma
+doy=181: best_dist=gamma
+doy=182: best_dist=gamma
+doy=183: best_dist=burr
+doy=184: best_dist=gamma
+doy=185: best_dist=burr
+doy=186: best_dist=burr
+doy=187: best_dist=burr
+doy=188: best_dist=gamma
+doy=189: best_dist=gamma
+doy=190: best_dist=gamma
+doy=191: best_dist=gamma
+doy=192: best_dist=burr
+doy=193: best_dist=gamma
+doy=194: best_dist=burr
+doy=195: best_dist=gamma
+doy=196: best_dist=gamma
+doy=197: best_dist=burr
+doy=198: best_dist=gamma
+doy=199: best_dist=burr
+doy=200: best_dist=burr
+doy=201: best_dist=burr
+doy=202: best_dist=gamma
+doy=203: best_dist=gamma
+doy=204: best_dist=gamma
+doy=205: best_dist=burr
+doy=206: best_dist=gamma
+doy=207: best_dist=burr
+doy=208: best_dist=gamma
+doy=209: best_dist=burr
+doy=210: best_dist=gamma
+doy=211: best_dist=gamma
+doy=212: best_dist=gamma
+doy=213: best_dist=gamma
+doy=214: best_dist=gamma
+doy=215: best_dist=gamma
+doy=216: best_dist=gamma
+doy=217: best_dist=gamma
+doy=218: best_dist=gamma
+doy=219: best_dist=gamma
+doy=220: best_dist=gamma
+doy=221: best_dist=gamma
+doy=222: best_dist=gamma
+doy=223: best_dist=fisk
+doy=224: best_dist=gamma
+doy=225: best_dist=gamma
+doy=226: best_dist=gamma
+doy=227: best_dist=gamma
+doy=228: best_dist=gamma
+doy=229: best_dist=gamma
+doy=230: best_dist=gamma
+doy=231: best_dist=gamma
+doy=232: best_dist=gamma
+doy=233: best_dist=gamma
+doy=234: best_dist=gamma
+doy=235: best_dist=burr
+doy=236: best_dist=gamma
+doy=237: best_dist=gamma
+doy=238: best_dist=gamma
+doy=239: best_dist=gamma
+doy=240: best_dist=gamma
+doy=241: best_dist=burr
+doy=242: best_dist=burr
+doy=243: best_dist=burr
+doy=244: best_dist=gamma
+doy=245: best_dist=gamma
+doy=246: best_dist=gamma
+doy=247: best_dist=burr
+doy=248: best_dist=burr
+doy=249: best_dist=gamma
+doy=250: best_dist=gamma
+doy=251: best_dist=gamma
+doy=252: best_dist=gamma
+doy=253: best_dist=gamma
+doy=254: best_dist=gamma
+doy=255: best_dist=gamma
+doy=256: best_dist=gamma
+doy=257: best_dist=gamma
+doy=258: best_dist=burr
+doy=259: best_dist=burr
+doy=260: best_dist=burr
+doy=261: best_dist=gamma
+doy=262: best_dist=burr
+doy=263: best_dist=gamma
+doy=264: best_dist=gamma
+doy=265: best_dist=burr
+doy=266: best_dist=gamma
+doy=267: best_dist=burr
+doy=268: best_dist=burr
+doy=269: best_dist=gamma
+doy=270: best_dist=gamma
+doy=271: best_dist=gamma
+doy=272: best_dist=gamma
+doy=273: best_dist=gamma
+doy=274: best_dist=gamma
+doy=275: best_dist=gamma
+doy=276: best_dist=burr
+doy=277: best_dist=burr
+doy=278: best_dist=gamma
+doy=279: best_dist=burr
+doy=280: best_dist=gamma
+doy=281: best_dist=burr
+doy=282: best_dist=burr
+doy=283: best_dist=gamma
+doy=284: best_dist=gamma
+doy=285: best_dist=burr
+doy=286: best_dist=burr
+doy=287: best_dist=burr
+doy=288: best_dist=gamma
+doy=289: best_dist=gamma
+doy=290: best_dist=gamma
+doy=291: best_dist=burr
+doy=292: best_dist=burr
+doy=293: best_dist=burr
+doy=294: best_dist=burr
+doy=295: best_dist=burr
+doy=296: best_dist=burr
+doy=297: best_dist=burr
+doy=298: best_dist=burr
+doy=299: best_dist=burr
+doy=300: best_dist=burr
+doy=301: best_dist=burr
+doy=302: best_dist=burr
+doy=303: best_dist=burr
+doy=304: best_dist=burr
+doy=305: best_dist=burr
+doy=306: best_dist=burr
+doy=307: best_dist=burr
+doy=308: best_dist=burr
+doy=309: best_dist=burr
+doy=310: best_dist=burr
+doy=311: best_dist=burr
+doy=312: best_dist=burr
+doy=313: best_dist=burr
+doy=314: best_dist=burr
+doy=315: best_dist=burr
+doy=316: best_dist=burr
+doy=317: best_dist=burr
+doy=318: best_dist=burr
+doy=319: best_dist=burr
+doy=320: best_dist=burr
+doy=321: best_dist=burr
+doy=322: best_dist=burr
+doy=323: best_dist=burr
+doy=324: best_dist=burr
+doy=325: best_dist=burr
+doy=326: best_dist=gamma
+doy=327: best_dist=gamma
+doy=328: best_dist=gamma
+doy=329: best_dist=burr
+doy=330: best_dist=burr
+doy=331: best_dist=burr
+doy=332: best_dist=burr
+doy=333: best_dist=burr
+doy=334: best_dist=burr
+doy=335: best_dist=burr
+doy=336: best_dist=burr
+doy=337: best_dist=burr
+doy=338: best_dist=burr
+doy=339: best_dist=burr
+doy=340: best_dist=burr
+doy=341: best_dist=burr
+doy=342: best_dist=burr
+doy=343: best_dist=burr
+doy=344: best_dist=burr
+doy=345: best_dist=burr
+doy=346: best_dist=burr
+doy=347: best_dist=burr
+doy=348: best_dist=burr
+doy=349: best_dist=burr
+doy=350: best_dist=burr
+doy=351: best_dist=burr
+doy=352: best_dist=burr
+doy=353: best_dist=burr
+doy=354: best_dist=burr
+doy=355: best_dist=burr
+doy=356: best_dist=burr
+doy=357: best_dist=burr
+doy=358: best_dist=burr
+doy=359: best_dist=burr
+doy=360: best_dist=burr
+doy=361: best_dist=burr
+doy=362: best_dist=burr
+doy=363: best_dist=burr
+doy=364: best_dist=burr
+doy=365: best_dist=burr
+doy=366: best_dist=gamma
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+
+Best distributions for SPI (Nd=60):
+doy=1: best_dist=burr
+doy=2: best_dist=burr
+doy=3: best_dist=burr
+doy=4: best_dist=burr
+doy=5: best_dist=burr
+doy=6: best_dist=burr
+doy=7: best_dist=burr
+doy=8: best_dist=burr
+doy=9: best_dist=burr
+doy=10: best_dist=burr
+doy=11: best_dist=burr
+doy=12: best_dist=burr
+doy=13: best_dist=burr
+doy=14: best_dist=gamma
+doy=15: best_dist=gamma
+doy=16: best_dist=burr
+doy=17: best_dist=burr
+doy=18: best_dist=gamma
+doy=19: best_dist=burr
+doy=20: best_dist=burr
+doy=21: best_dist=burr
+doy=22: best_dist=burr
+doy=23: best_dist=burr
+doy=24: best_dist=gumbel_r
+doy=25: best_dist=burr
+doy=26: best_dist=gumbel_r
+doy=27: best_dist=gumbel_r
+doy=28: best_dist=gumbel_r
+doy=29: best_dist=gumbel_r
+doy=30: best_dist=gumbel_r
+doy=31: best_dist=gumbel_r
+doy=32: best_dist=gumbel_r
+doy=33: best_dist=gumbel_r
+doy=34: best_dist=gumbel_r
+doy=35: best_dist=gumbel_r
+doy=36: best_dist=gumbel_r
+doy=37: best_dist=gumbel_r
+doy=38: best_dist=gumbel_r
+doy=39: best_dist=gumbel_r
+doy=40: best_dist=gumbel_r
+doy=41: best_dist=gumbel_r
+doy=42: best_dist=gumbel_r
+doy=43: best_dist=gumbel_r
+doy=44: best_dist=gumbel_r
+doy=45: best_dist=gumbel_r
+doy=46: best_dist=gumbel_r
+doy=47: best_dist=gumbel_r
+doy=48: best_dist=gumbel_r
+doy=49: best_dist=gumbel_r
+doy=50: best_dist=gumbel_r
+doy=51: best_dist=burr
+doy=52: best_dist=burr
+doy=53: best_dist=burr
+doy=54: best_dist=burr
+doy=55: best_dist=burr
+doy=56: best_dist=burr
+doy=57: best_dist=gamma
+doy=58: best_dist=gamma
+doy=59: best_dist=burr
+doy=60: best_dist=gamma
+doy=61: best_dist=gumbel_r
+doy=62: best_dist=gumbel_r
+doy=63: best_dist=gumbel_r
+doy=64: best_dist=gamma
+doy=65: best_dist=gamma
+doy=66: best_dist=burr
+doy=67: best_dist=burr
+doy=68: best_dist=burr
+doy=69: best_dist=burr
+doy=70: best_dist=burr
+doy=71: best_dist=burr
+doy=72: best_dist=burr
+doy=73: best_dist=burr
+doy=74: best_dist=burr
+doy=75: best_dist=burr
+doy=76: best_dist=burr
+doy=77: best_dist=burr
+doy=78: best_dist=burr
+doy=79: best_dist=burr
+doy=80: best_dist=burr
+doy=81: best_dist=burr
+doy=82: best_dist=burr
+doy=83: best_dist=burr
+doy=84: best_dist=burr
+doy=85: best_dist=gamma
+doy=86: best_dist=gamma
+doy=87: best_dist=gamma
+doy=88: best_dist=gamma
+doy=89: best_dist=gamma
+doy=90: best_dist=gamma
+doy=91: best_dist=gamma
+doy=92: best_dist=burr
+doy=93: best_dist=gamma
+doy=94: best_dist=burr
+doy=95: best_dist=burr
+doy=96: best_dist=burr
+doy=97: best_dist=burr
+doy=98: best_dist=burr
+doy=99: best_dist=burr
+doy=100: best_dist=burr
+doy=101: best_dist=gamma
+doy=102: best_dist=burr
+doy=103: best_dist=burr
+doy=104: best_dist=gamma
+doy=105: best_dist=burr
+doy=106: best_dist=gamma
+doy=107: best_dist=gamma
+doy=108: best_dist=gamma
+doy=109: best_dist=gamma
+doy=110: best_dist=gamma
+doy=111: best_dist=gamma
+doy=112: best_dist=gamma
+doy=113: best_dist=gamma
+doy=114: best_dist=gamma
+doy=115: best_dist=gamma
+doy=116: best_dist=gamma
+doy=117: best_dist=gamma
+doy=118: best_dist=gamma
+doy=119: best_dist=gamma
+doy=120: best_dist=gamma
+doy=121: best_dist=gamma
+doy=122: best_dist=gamma
+doy=123: best_dist=gamma
+doy=124: best_dist=gamma
+doy=125: best_dist=gamma
+doy=126: best_dist=gamma
+doy=127: best_dist=burr
+doy=128: best_dist=gamma
+doy=129: best_dist=gamma
+doy=130: best_dist=gamma
+doy=131: best_dist=gamma
+doy=132: best_dist=gamma
+doy=133: best_dist=gamma
+doy=134: best_dist=gamma
+doy=135: best_dist=gamma
+doy=136: best_dist=burr
+doy=137: best_dist=gamma
+doy=138: best_dist=gamma
+doy=139: best_dist=gamma
+doy=140: best_dist=gamma
+doy=141: best_dist=gamma
+doy=142: best_dist=burr
+doy=143: best_dist=burr
+doy=144: best_dist=burr
+doy=145: best_dist=burr
+doy=146: best_dist=burr
+doy=147: best_dist=burr
+doy=148: best_dist=burr
+doy=149: best_dist=burr
+doy=150: best_dist=burr
+doy=151: best_dist=burr
+doy=152: best_dist=burr
+doy=153: best_dist=burr
+doy=154: best_dist=burr
+doy=155: best_dist=burr
+doy=156: best_dist=burr
+doy=157: best_dist=burr
+doy=158: best_dist=burr
+doy=159: best_dist=burr
+doy=160: best_dist=burr
+doy=161: best_dist=burr
+doy=162: best_dist=burr
+doy=163: best_dist=burr
+doy=164: best_dist=burr
+doy=165: best_dist=burr
+doy=166: best_dist=burr
+doy=167: best_dist=expon
+doy=168: best_dist=burr
+doy=169: best_dist=burr
+doy=170: best_dist=burr
+doy=171: best_dist=gamma
+doy=172: best_dist=gamma
+doy=173: best_dist=gamma
+doy=174: best_dist=gamma
+doy=175: best_dist=burr
+doy=176: best_dist=burr
+doy=177: best_dist=gamma
+doy=178: best_dist=gamma
+doy=179: best_dist=burr
+doy=180: best_dist=burr
+doy=181: best_dist=burr
+doy=182: best_dist=burr
+doy=183: best_dist=gamma
+doy=184: best_dist=burr
+doy=185: best_dist=burr
+doy=186: best_dist=burr
+doy=187: best_dist=gamma
+doy=188: best_dist=gamma
+doy=189: best_dist=burr
+doy=190: best_dist=burr
+doy=191: best_dist=gamma
+doy=192: best_dist=gamma
+doy=193: best_dist=gamma
+doy=194: best_dist=gamma
+doy=195: best_dist=burr
+doy=196: best_dist=burr
+doy=197: best_dist=gamma
+doy=198: best_dist=burr
+doy=199: best_dist=gamma
+doy=200: best_dist=gamma
+doy=201: best_dist=gamma
+doy=202: best_dist=gamma
+doy=203: best_dist=gamma
+doy=204: best_dist=gamma
+doy=205: best_dist=gamma
+doy=206: best_dist=burr
+doy=207: best_dist=burr
+doy=208: best_dist=gamma
+doy=209: best_dist=burr
+doy=210: best_dist=gamma
+doy=211: best_dist=gamma
+doy=212: best_dist=gamma
+doy=213: best_dist=gamma
+doy=214: best_dist=gamma
+doy=215: best_dist=gamma
+doy=216: best_dist=gamma
+doy=217: best_dist=burr
+doy=218: best_dist=gamma
+doy=219: best_dist=gamma
+doy=220: best_dist=burr
+doy=221: best_dist=gamma
+doy=222: best_dist=burr
+doy=223: best_dist=burr
+doy=224: best_dist=gamma
+doy=225: best_dist=burr
+doy=226: best_dist=burr
+doy=227: best_dist=gamma
+doy=228: best_dist=burr
+doy=229: best_dist=gamma
+doy=230: best_dist=gamma
+doy=231: best_dist=gamma
+doy=232: best_dist=gamma
+doy=233: best_dist=gamma
+doy=234: best_dist=gamma
+doy=235: best_dist=gamma
+doy=236: best_dist=burr
+doy=237: best_dist=gamma
+doy=238: best_dist=burr
+doy=239: best_dist=burr
+doy=240: best_dist=burr
+doy=241: best_dist=burr
+doy=242: best_dist=gamma
+doy=243: best_dist=gamma
+doy=244: best_dist=gamma
+doy=245: best_dist=gamma
+doy=246: best_dist=gamma
+doy=247: best_dist=burr
+doy=248: best_dist=gamma
+doy=249: best_dist=gamma
+doy=250: best_dist=gamma
+doy=251: best_dist=burr
+doy=252: best_dist=gamma
+doy=253: best_dist=gamma
+doy=254: best_dist=burr
+doy=255: best_dist=gamma
+doy=256: best_dist=gamma
+doy=257: best_dist=gamma
+doy=258: best_dist=burr
+doy=259: best_dist=burr
+doy=260: best_dist=burr
+doy=261: best_dist=gamma
+doy=262: best_dist=gamma
+doy=263: best_dist=gamma
+doy=264: best_dist=burr
+doy=265: best_dist=gamma
+doy=266: best_dist=gamma
+doy=267: best_dist=gamma
+doy=268: best_dist=gamma
+doy=269: best_dist=burr
+doy=270: best_dist=burr
+doy=271: best_dist=burr
+doy=272: best_dist=gamma
+doy=273: best_dist=burr
+doy=274: best_dist=burr
+doy=275: best_dist=burr
+doy=276: best_dist=burr
+doy=277: best_dist=burr
+doy=278: best_dist=gamma
+doy=279: best_dist=burr
+doy=280: best_dist=burr
+doy=281: best_dist=gamma
+doy=282: best_dist=burr
+doy=283: best_dist=gamma
+doy=284: best_dist=gamma
+doy=285: best_dist=gamma
+doy=286: best_dist=burr
+doy=287: best_dist=gamma
+doy=288: best_dist=burr
+doy=289: best_dist=burr
+doy=290: best_dist=burr
+doy=291: best_dist=burr
+doy=292: best_dist=burr
+doy=293: best_dist=burr
+doy=294: best_dist=burr
+doy=295: best_dist=burr
+doy=296: best_dist=burr
+doy=297: best_dist=burr
+doy=298: best_dist=burr
+doy=299: best_dist=burr
+doy=300: best_dist=burr
+doy=301: best_dist=burr
+doy=302: best_dist=burr
+doy=303: best_dist=burr
+doy=304: best_dist=burr
+doy=305: best_dist=burr
+doy=306: best_dist=burr
+doy=307: best_dist=burr
+doy=308: best_dist=burr
+doy=309: best_dist=burr
+doy=310: best_dist=burr
+doy=311: best_dist=burr
+doy=312: best_dist=burr
+doy=313: best_dist=burr
+doy=314: best_dist=burr
+doy=315: best_dist=burr
+doy=316: best_dist=burr
+doy=317: best_dist=burr
+doy=318: best_dist=burr
+doy=319: best_dist=burr
+doy=320: best_dist=burr
+doy=321: best_dist=burr
+doy=322: best_dist=burr
+doy=323: best_dist=burr
+doy=324: best_dist=burr
+doy=325: best_dist=burr
+doy=326: best_dist=burr
+doy=327: best_dist=burr
+doy=328: best_dist=burr
+doy=329: best_dist=burr
+doy=330: best_dist=burr
+doy=331: best_dist=burr
+doy=332: best_dist=burr
+doy=333: best_dist=burr
+doy=334: best_dist=burr
+doy=335: best_dist=burr
+doy=336: best_dist=burr
+doy=337: best_dist=burr
+doy=338: best_dist=gumbel_r
+doy=339: best_dist=gumbel_r
+doy=340: best_dist=gumbel_r
+doy=341: best_dist=gumbel_r
+doy=342: best_dist=burr
+doy=343: best_dist=burr
+doy=344: best_dist=burr
+doy=345: best_dist=burr
+doy=346: best_dist=burr
+doy=347: best_dist=burr
+doy=348: best_dist=burr
+doy=349: best_dist=burr
+doy=350: best_dist=burr
+doy=351: best_dist=burr
+doy=352: best_dist=burr
+doy=353: best_dist=burr
+doy=354: best_dist=burr
+doy=355: best_dist=burr
+doy=356: best_dist=burr
+doy=357: best_dist=burr
+doy=358: best_dist=burr
+doy=359: best_dist=burr
+doy=360: best_dist=burr
+doy=361: best_dist=burr
+doy=362: best_dist=burr
+doy=363: best_dist=burr
+doy=364: best_dist=burr
+doy=365: best_dist=burr
+doy=366: best_dist=burr
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+
+Best distributions for SPI (Nd=90):
+doy=1: best_dist=burr
+doy=2: best_dist=burr
+doy=3: best_dist=burr
+doy=4: best_dist=burr
+doy=5: best_dist=burr
+doy=6: best_dist=burr
+doy=7: best_dist=burr
+doy=8: best_dist=burr
+doy=9: best_dist=burr
+doy=10: best_dist=burr
+doy=11: best_dist=burr
+doy=12: best_dist=burr
+doy=13: best_dist=burr
+doy=14: best_dist=burr
+doy=15: best_dist=burr
+doy=16: best_dist=burr
+doy=17: best_dist=burr
+doy=18: best_dist=burr
+doy=19: best_dist=burr
+doy=20: best_dist=burr
+doy=21: best_dist=burr
+doy=22: best_dist=gumbel_r
+doy=23: best_dist=gumbel_r
+doy=24: best_dist=gumbel_r
+doy=25: best_dist=gumbel_r
+doy=26: best_dist=gumbel_r
+doy=27: best_dist=gumbel_r
+doy=28: best_dist=gumbel_r
+doy=29: best_dist=gumbel_r
+doy=30: best_dist=gumbel_r
+doy=31: best_dist=gumbel_r
+doy=32: best_dist=gumbel_r
+doy=33: best_dist=gumbel_r
+doy=34: best_dist=gumbel_r
+doy=35: best_dist=gamma
+doy=36: best_dist=gamma
+doy=37: best_dist=gamma
+doy=38: best_dist=gumbel_r
+doy=39: best_dist=gamma
+doy=40: best_dist=gumbel_r
+doy=41: best_dist=gamma
+doy=42: best_dist=gamma
+doy=43: best_dist=gamma
+doy=44: best_dist=gamma
+doy=45: best_dist=gamma
+doy=46: best_dist=genextreme
+doy=47: best_dist=genextreme
+doy=48: best_dist=genextreme
+doy=49: best_dist=genextreme
+doy=50: best_dist=genextreme
+doy=51: best_dist=genextreme
+doy=52: best_dist=gamma
+doy=53: best_dist=gamma
+doy=54: best_dist=gamma
+doy=55: best_dist=gamma
+doy=56: best_dist=gamma
+doy=57: best_dist=gumbel_r
+doy=58: best_dist=gumbel_r
+doy=59: best_dist=gumbel_r
+doy=60: best_dist=gumbel_r
+doy=61: best_dist=gumbel_r
+doy=62: best_dist=gumbel_r
+doy=63: best_dist=gumbel_r
+doy=64: best_dist=gumbel_r
+doy=65: best_dist=gumbel_r
+doy=66: best_dist=gumbel_r
+doy=67: best_dist=gumbel_r
+doy=68: best_dist=gumbel_r
+doy=69: best_dist=gumbel_r
+doy=70: best_dist=gumbel_r
+doy=71: best_dist=gumbel_r
+doy=72: best_dist=gumbel_r
+doy=73: best_dist=gumbel_r
+doy=74: best_dist=gumbel_r
+doy=75: best_dist=gumbel_r
+doy=76: best_dist=burr
+doy=77: best_dist=burr
+doy=78: best_dist=burr
+doy=79: best_dist=burr
+doy=80: best_dist=burr
+doy=81: best_dist=burr
+doy=82: best_dist=burr
+doy=83: best_dist=burr
+doy=84: best_dist=burr
+doy=85: best_dist=burr
+doy=86: best_dist=burr
+doy=87: best_dist=burr
+doy=88: best_dist=burr
+doy=89: best_dist=burr
+doy=90: best_dist=burr
+doy=91: best_dist=burr
+doy=92: best_dist=burr
+doy=93: best_dist=burr
+doy=94: best_dist=burr
+doy=95: best_dist=burr
+doy=96: best_dist=burr
+doy=97: best_dist=burr
+doy=98: best_dist=burr
+doy=99: best_dist=burr
+doy=100: best_dist=burr
+doy=101: best_dist=burr
+doy=102: best_dist=burr
+doy=103: best_dist=burr
+doy=104: best_dist=burr
+doy=105: best_dist=burr
+doy=106: best_dist=burr
+doy=107: best_dist=burr
+doy=108: best_dist=burr
+doy=109: best_dist=burr
+doy=110: best_dist=burr
+doy=111: best_dist=gamma
+doy=112: best_dist=burr
+doy=113: best_dist=gamma
+doy=114: best_dist=gamma
+doy=115: best_dist=gamma
+doy=116: best_dist=gamma
+doy=117: best_dist=burr
+doy=118: best_dist=burr
+doy=119: best_dist=burr
+doy=120: best_dist=gamma
+doy=121: best_dist=gamma
+doy=122: best_dist=gamma
+doy=123: best_dist=gamma
+doy=124: best_dist=burr
+doy=125: best_dist=burr
+doy=126: best_dist=burr
+doy=127: best_dist=gamma
+doy=128: best_dist=gamma
+doy=129: best_dist=gamma
+doy=130: best_dist=gamma
+doy=131: best_dist=gamma
+doy=132: best_dist=gamma
+doy=133: best_dist=gamma
+doy=134: best_dist=gamma
+doy=135: best_dist=gamma
+doy=136: best_dist=gamma
+doy=137: best_dist=gamma
+doy=138: best_dist=gamma
+doy=139: best_dist=gamma
+doy=140: best_dist=gamma
+doy=141: best_dist=gamma
+doy=142: best_dist=gamma
+doy=143: best_dist=gamma
+doy=144: best_dist=gamma
+doy=145: best_dist=gamma
+doy=146: best_dist=gamma
+doy=147: best_dist=gamma
+doy=148: best_dist=gamma
+doy=149: best_dist=gamma
+doy=150: best_dist=gamma
+doy=151: best_dist=gamma
+doy=152: best_dist=gamma
+doy=153: best_dist=gamma
+doy=154: best_dist=gamma
+doy=155: best_dist=gamma
+doy=156: best_dist=gamma
+doy=157: best_dist=gamma
+doy=158: best_dist=gamma
+doy=159: best_dist=gamma
+doy=160: best_dist=gamma
+doy=161: best_dist=gamma
+doy=162: best_dist=gamma
+doy=163: best_dist=gamma
+doy=164: best_dist=gamma
+doy=165: best_dist=gamma
+doy=166: best_dist=gamma
+doy=167: best_dist=gamma
+doy=168: best_dist=gamma
+doy=169: best_dist=gamma
+doy=170: best_dist=gamma
+doy=171: best_dist=gamma
+doy=172: best_dist=gamma
+doy=173: best_dist=gamma
+doy=174: best_dist=burr
+doy=175: best_dist=burr
+doy=176: best_dist=burr
+doy=177: best_dist=burr
+doy=178: best_dist=burr
+doy=179: best_dist=burr
+doy=180: best_dist=burr
+doy=181: best_dist=burr
+doy=182: best_dist=burr
+doy=183: best_dist=burr
+doy=184: best_dist=burr
+doy=185: best_dist=burr
+doy=186: best_dist=burr
+doy=187: best_dist=burr
+doy=188: best_dist=burr
+doy=189: best_dist=burr
+doy=190: best_dist=burr
+doy=191: best_dist=burr
+doy=192: best_dist=burr
+doy=193: best_dist=burr
+doy=194: best_dist=burr
+doy=195: best_dist=burr
+doy=196: best_dist=burr
+doy=197: best_dist=burr
+doy=198: best_dist=burr
+doy=199: best_dist=burr
+doy=200: best_dist=burr
+doy=201: best_dist=burr
+doy=202: best_dist=burr
+doy=203: best_dist=burr
+doy=204: best_dist=gamma
+doy=205: best_dist=gamma
+doy=206: best_dist=burr
+doy=207: best_dist=burr
+doy=208: best_dist=burr
+doy=209: best_dist=gamma
+doy=210: best_dist=gamma
+doy=211: best_dist=burr
+doy=212: best_dist=gamma
+doy=213: best_dist=gamma
+doy=214: best_dist=burr
+doy=215: best_dist=burr
+doy=216: best_dist=burr
+doy=217: best_dist=gamma
+doy=218: best_dist=gamma
+doy=219: best_dist=burr
+doy=220: best_dist=gamma
+doy=221: best_dist=burr
+doy=222: best_dist=gamma
+doy=223: best_dist=gamma
+doy=224: best_dist=gamma
+doy=225: best_dist=gamma
+doy=226: best_dist=burr
+doy=227: best_dist=burr
+doy=228: best_dist=gamma
+doy=229: best_dist=gamma
+doy=230: best_dist=gamma
+doy=231: best_dist=burr
+doy=232: best_dist=gamma
+doy=233: best_dist=burr
+doy=234: best_dist=gamma
+doy=235: best_dist=gamma
+doy=236: best_dist=gamma
+doy=237: best_dist=gamma
+doy=238: best_dist=burr
+doy=239: best_dist=gamma
+doy=240: best_dist=burr
+doy=241: best_dist=gamma
+doy=242: best_dist=burr
+doy=243: best_dist=burr
+doy=244: best_dist=burr
+doy=245: best_dist=burr
+doy=246: best_dist=burr
+doy=247: best_dist=burr
+doy=248: best_dist=gamma
+doy=249: best_dist=burr
+doy=250: best_dist=burr
+doy=251: best_dist=burr
+doy=252: best_dist=burr
+doy=253: best_dist=burr
+doy=254: best_dist=burr
+doy=255: best_dist=burr
+doy=256: best_dist=gamma
+doy=257: best_dist=gamma
+doy=258: best_dist=gamma
+doy=259: best_dist=burr
+doy=260: best_dist=burr
+doy=261: best_dist=gamma
+doy=262: best_dist=burr
+doy=263: best_dist=burr
+doy=264: best_dist=burr
+doy=265: best_dist=burr
+doy=266: best_dist=burr
+doy=267: best_dist=burr
+doy=268: best_dist=gamma
+doy=269: best_dist=gamma
+doy=270: best_dist=gamma
+doy=271: best_dist=burr
+doy=272: best_dist=burr
+doy=273: best_dist=gamma
+doy=274: best_dist=burr
+doy=275: best_dist=gamma
+doy=276: best_dist=gamma
+doy=277: best_dist=gamma
+doy=278: best_dist=gamma
+doy=279: best_dist=gamma
+doy=280: best_dist=burr
+doy=281: best_dist=gamma
+doy=282: best_dist=burr
+doy=283: best_dist=burr
+doy=284: best_dist=burr
+doy=285: best_dist=burr
+doy=286: best_dist=burr
+doy=287: best_dist=burr
+doy=288: best_dist=burr
+doy=289: best_dist=burr
+doy=290: best_dist=burr
+doy=291: best_dist=burr
+doy=292: best_dist=burr
+doy=293: best_dist=burr
+doy=294: best_dist=burr
+doy=295: best_dist=burr
+doy=296: best_dist=burr
+doy=297: best_dist=burr
+doy=298: best_dist=burr
+doy=299: best_dist=burr
+doy=300: best_dist=burr
+doy=301: best_dist=burr
+doy=302: best_dist=burr
+doy=303: best_dist=burr
+doy=304: best_dist=burr
+doy=305: best_dist=burr
+doy=306: best_dist=burr
+doy=307: best_dist=burr
+doy=308: best_dist=burr
+doy=309: best_dist=burr
+doy=310: best_dist=burr
+doy=311: best_dist=burr
+doy=312: best_dist=burr
+doy=313: best_dist=burr
+doy=314: best_dist=burr
+doy=315: best_dist=burr
+doy=316: best_dist=burr
+doy=317: best_dist=burr
+doy=318: best_dist=burr
+doy=319: best_dist=burr
+doy=320: best_dist=burr
+doy=321: best_dist=gamma
+doy=322: best_dist=burr
+doy=323: best_dist=burr
+doy=324: best_dist=gumbel_r
+doy=325: best_dist=burr
+doy=326: best_dist=gumbel_r
+doy=327: best_dist=burr
+doy=328: best_dist=gumbel_r
+doy=329: best_dist=gumbel_r
+doy=330: best_dist=gumbel_r
+doy=331: best_dist=burr
+doy=332: best_dist=gumbel_r
+doy=333: best_dist=burr
+doy=334: best_dist=gumbel_r
+doy=335: best_dist=gumbel_r
+doy=336: best_dist=gumbel_r
+doy=337: best_dist=burr
+doy=338: best_dist=burr
+doy=339: best_dist=gumbel_r
+doy=340: best_dist=burr
+doy=341: best_dist=gumbel_r
+doy=342: best_dist=burr
+doy=343: best_dist=burr
+doy=344: best_dist=burr
+doy=345: best_dist=burr
+doy=346: best_dist=burr
+doy=347: best_dist=burr
+doy=348: best_dist=burr
+doy=349: best_dist=gamma
+doy=350: best_dist=gamma
+doy=351: best_dist=burr
+doy=352: best_dist=gamma
+doy=353: best_dist=burr
+doy=354: best_dist=burr
+doy=355: best_dist=burr
+doy=356: best_dist=burr
+doy=357: best_dist=burr
+doy=358: best_dist=burr
+doy=359: best_dist=burr
+doy=360: best_dist=gumbel_r
+doy=361: best_dist=gumbel_r
+doy=362: best_dist=burr
+doy=363: best_dist=burr
+doy=364: best_dist=burr
+doy=365: best_dist=burr
+doy=366: best_dist=burr
+For SHI (Nh=3), doy=1: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=2: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=3: most common best_dist=genextreme (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+For SHI (Nh=3), doy=4: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=5: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=6: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=7: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=8: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=9: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=10: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=11: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=12: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=13: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=14: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=15: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=16: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=17: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=18: most common best_dist=gamma (across 72 windows)
+For SHI (Nh=3), doy=19: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=20: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=21: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=22: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=23: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=24: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=25: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=26: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=27: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=28: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=29: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=30: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=31: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=32: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=33: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=34: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=35: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=36: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=37: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=38: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=39: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=40: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=41: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=42: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=43: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=44: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=45: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=46: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=47: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=48: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=49: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=50: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=51: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=52: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=53: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=54: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=55: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=56: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=57: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=58: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=59: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=60: most common best_dist=burr (across 54 windows)
+For SHI (Nh=3), doy=61: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=62: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=63: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=64: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=65: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=66: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=67: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=68: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=69: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=70: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=71: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=72: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=73: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=74: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=75: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=76: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=77: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=78: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=79: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=80: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=81: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=82: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=83: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=84: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=85: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=86: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=87: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=88: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=89: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=90: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=91: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=92: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=93: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=94: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=95: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=96: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=97: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=98: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=99: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=100: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=101: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=102: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=103: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=104: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=105: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=106: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=107: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=108: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=109: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=110: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=111: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=112: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=113: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=114: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=115: most common best_dist=expon (across 73 windows)
+For SHI (Nh=3), doy=116: most common best_dist=expon (across 73 windows)
+For SHI (Nh=3), doy=117: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=3), doy=118: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=3), doy=119: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=120: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=3), doy=121: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=122: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=123: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=124: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=3), doy=125: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=126: most common best_dist=genextreme (across 73 windows)
+For SHI (Nh=3), doy=127: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=128: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=3), doy=129: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=3), doy=130: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=131: most common best_dist=norm (across 73 windows)
+For SHI (Nh=3), doy=132: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=133: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=134: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=135: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=136: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=137: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=138: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=139: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=140: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=141: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=142: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=143: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=144: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=145: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=146: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=147: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=148: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=149: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=150: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=151: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=152: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=153: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=154: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=155: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=156: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=157: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=158: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=159: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=160: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=161: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=162: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=163: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=164: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=165: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=166: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=167: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=168: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=169: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=170: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=171: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=172: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=173: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=174: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=175: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=176: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=177: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=178: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=179: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=180: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=181: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=182: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=183: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=184: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=185: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=186: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=187: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=188: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=189: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=190: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=191: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=192: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=193: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=194: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=195: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=196: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=197: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=198: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=199: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=200: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=201: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=202: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=203: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=204: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=205: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=206: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=207: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=208: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=209: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=210: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=211: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=212: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=213: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=214: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=215: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=216: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=217: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=218: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=219: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=220: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=221: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=222: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=223: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=224: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=225: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=226: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=227: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=228: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=229: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=230: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=231: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=232: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=233: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=234: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=235: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=236: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=237: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=238: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=239: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=240: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=241: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=242: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=243: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=244: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=245: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=246: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=247: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=248: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=249: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=250: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=251: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=252: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=253: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=254: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=255: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=256: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=257: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=258: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=259: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=260: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=261: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=262: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=263: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=264: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=265: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=266: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=267: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=268: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=269: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=270: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=271: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=272: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=273: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=274: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=275: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=276: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=277: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=278: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=279: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=280: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=281: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=282: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=283: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=284: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=285: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=286: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=287: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=288: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=289: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=290: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=291: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=292: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=293: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=294: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=295: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=296: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=297: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=298: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=299: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=300: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=301: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=302: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=303: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=304: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=305: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=306: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=307: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=308: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=309: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=310: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=311: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=312: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=313: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=314: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=315: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=316: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=317: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=318: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=319: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=320: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=321: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=322: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=323: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=324: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=325: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=326: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=327: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=328: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=329: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=330: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=331: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=332: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=333: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=334: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=335: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=336: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=337: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=338: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=339: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=340: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=341: most common best_dist=burr (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 6902
+    lndata = np.log(data - loc)
+RuntimeWarning: invalid value encountered in log
+For SHI (Nh=3), doy=342: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=343: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=344: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=3), doy=345: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=346: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=347: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=348: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=349: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=350: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=3), doy=351: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=352: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=353: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=354: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=355: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=356: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=357: most common best_dist=norm (across 72 windows)
+For SHI (Nh=3), doy=358: most common best_dist=burr (across 72 windows)
+For SHI (Nh=3), doy=359: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=360: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=361: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=362: most common best_dist=expon (across 72 windows)
+For SHI (Nh=3), doy=363: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=364: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=3), doy=365: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=1: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=2: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=3: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=4: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=5: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=6: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=7: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=8: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=9: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=10: most common best_dist=burr (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+For SHI (Nh=5), doy=11: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=12: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=13: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=14: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=15: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=16: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=17: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=18: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=19: most common best_dist=expon (across 72 windows)
+For SHI (Nh=5), doy=20: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=21: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=22: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=23: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=24: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=25: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=26: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=27: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=28: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=29: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=30: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=31: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=32: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=33: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=34: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=35: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=36: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=37: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=38: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=39: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=40: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=41: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=42: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=43: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=44: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=45: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=46: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=47: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=48: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=49: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=50: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=51: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=52: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=53: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=54: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=55: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=56: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=57: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=58: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=59: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=60: most common best_dist=burr (across 54 windows)
+For SHI (Nh=5), doy=61: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=62: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=63: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=64: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=65: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=66: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=67: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=68: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=69: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=70: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=71: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=72: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=73: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=74: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=75: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=76: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=77: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=78: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=79: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=80: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=81: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=82: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=83: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=84: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=85: most common best_dist=expon (across 72 windows)
+For SHI (Nh=5), doy=86: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=87: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=88: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=89: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=90: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=91: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=92: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=93: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=94: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=95: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=96: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=97: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=98: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=99: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=100: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=101: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=102: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=103: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=104: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=105: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=106: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=107: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=108: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=109: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=110: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=111: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=112: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=113: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=114: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=115: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=116: most common best_dist=expon (across 73 windows)
+For SHI (Nh=5), doy=117: most common best_dist=gamma (across 73 windows)
+For SHI (Nh=5), doy=118: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=5), doy=119: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=5), doy=120: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=121: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=122: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=123: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=124: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=5), doy=125: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=126: most common best_dist=norm (across 73 windows)
+For SHI (Nh=5), doy=127: most common best_dist=genextreme (across 73 windows)
+For SHI (Nh=5), doy=128: most common best_dist=genextreme (across 73 windows)
+For SHI (Nh=5), doy=129: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=5), doy=130: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=5), doy=131: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=5), doy=132: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=133: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=134: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=135: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=136: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=137: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=138: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=139: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=140: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=141: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=142: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=143: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=144: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=145: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=146: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=147: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=148: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=149: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=150: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=151: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=152: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=153: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=154: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=155: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=156: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=157: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=158: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=159: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=160: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=161: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=162: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=163: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=164: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=165: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=166: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=167: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=168: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=169: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=170: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=171: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=172: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=173: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=174: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=175: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=176: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=177: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=178: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=179: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=180: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=181: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=182: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=183: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=184: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=185: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=186: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=187: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=188: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=189: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=190: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=191: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=192: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=193: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=194: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=195: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=196: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=197: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=198: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=199: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=200: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=201: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=202: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=203: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=204: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=205: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=206: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=207: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=208: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=209: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=210: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=211: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=212: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=213: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=214: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=215: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=216: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=217: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=218: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=219: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=220: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=221: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=222: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=223: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=224: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=225: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=226: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=227: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=228: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=229: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=230: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=231: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=232: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=233: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=234: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=235: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=236: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=237: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=238: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=239: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=240: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=241: most common best_dist=expon (across 72 windows)
+For SHI (Nh=5), doy=242: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=243: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=244: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=245: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=246: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=247: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=248: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=249: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=250: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=251: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=252: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=253: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=254: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=255: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=256: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=257: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=258: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=259: most common best_dist=expon (across 72 windows)
+For SHI (Nh=5), doy=260: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=261: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=262: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=263: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=264: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=265: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=266: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=267: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=268: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=269: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=270: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=271: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=272: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=273: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=274: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=275: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=276: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=277: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=278: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=279: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=280: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=281: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=282: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=283: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=284: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=285: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=286: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=287: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=288: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=289: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=290: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=291: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=292: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=293: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=294: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=295: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=296: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=297: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=298: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=299: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=300: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=301: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=302: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=303: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=304: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=305: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=306: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=307: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=308: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=309: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=310: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=311: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=312: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=313: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=314: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=315: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=316: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=317: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=318: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=319: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=320: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=321: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=322: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=323: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=324: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=325: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=326: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=327: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=328: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=329: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=330: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=331: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=332: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=333: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=334: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=335: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=336: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=337: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=338: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=339: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=340: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=341: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=342: most common best_dist=genextreme (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 6902
+    lndata = np.log(data - loc)
+RuntimeWarning: invalid value encountered in log
+For SHI (Nh=5), doy=343: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=344: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=345: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=346: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=347: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=348: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=349: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=350: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=351: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=5), doy=352: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=353: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=5), doy=354: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=355: most common best_dist=burr (across 72 windows)
+For SHI (Nh=5), doy=356: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=357: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=358: most common best_dist=norm (across 72 windows)
+For SHI (Nh=5), doy=359: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=360: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=361: most common best_dist=gamma (across 72 windows)
+For SHI (Nh=5), doy=362: most common best_dist=expon (across 72 windows)
+For SHI (Nh=5), doy=363: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=364: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=5), doy=365: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=1: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=2: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=3: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=4: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=5: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=6: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=7: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=8: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=9: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=10: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=11: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=12: most common best_dist=logistic (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+For SHI (Nh=7), doy=13: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=14: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=15: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=16: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=17: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=18: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=19: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=20: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=21: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=22: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=23: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=24: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=25: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=26: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=27: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=28: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=29: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=30: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=31: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=32: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=33: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=34: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=35: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=36: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=37: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=38: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=39: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=40: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=41: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=42: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=43: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=44: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=45: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=46: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=47: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=48: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=49: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=50: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=51: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=52: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=53: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=54: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=55: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=56: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=57: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=58: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=59: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=60: most common best_dist=burr (across 54 windows)
+For SHI (Nh=7), doy=61: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=62: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=63: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=64: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=65: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=66: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=67: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=68: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=69: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=70: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=71: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=72: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=73: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=74: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=75: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=76: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=77: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=78: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=79: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=80: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=81: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=82: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=83: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=84: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=85: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=86: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=87: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=88: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=89: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=90: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=91: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=92: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=93: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=94: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=95: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=96: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=97: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=98: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=99: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=100: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=101: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=102: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=103: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=104: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=105: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=106: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=107: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=108: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=109: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=110: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=111: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=112: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=113: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=114: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=115: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=116: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=117: most common best_dist=expon (across 72 windows)
+For SHI (Nh=7), doy=118: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=7), doy=119: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=7), doy=120: most common best_dist=gumbel_r (across 73 windows)
+For SHI (Nh=7), doy=121: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=122: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=123: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=124: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=125: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=126: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=127: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=128: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=129: most common best_dist=norm (across 73 windows)
+For SHI (Nh=7), doy=130: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=7), doy=131: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=7), doy=132: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=133: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=134: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=135: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=136: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=137: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=138: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=139: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=140: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=141: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=142: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=143: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=144: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=145: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=146: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=147: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=148: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=149: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=150: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=151: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=152: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=153: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=154: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=155: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=156: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=157: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=158: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=159: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=160: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=161: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=162: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=163: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=164: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=165: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=166: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=167: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=168: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=169: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=170: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=171: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=172: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=173: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=174: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=175: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=176: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=177: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=178: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=179: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=180: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=181: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=182: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=183: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=184: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=185: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=186: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=187: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=188: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=189: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=190: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=191: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=192: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=193: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=194: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=195: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=196: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=197: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=198: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=199: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=200: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=201: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=202: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=203: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=204: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=205: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=206: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=207: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=208: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=209: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=210: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=211: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=212: most common best_dist=expon (across 72 windows)
+For SHI (Nh=7), doy=213: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=214: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=215: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=216: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=217: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=218: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=219: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=220: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=221: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=222: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=223: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=224: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=225: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=226: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=227: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=228: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=229: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=230: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=231: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=232: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=233: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=234: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=235: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=236: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=237: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=238: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=239: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=240: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=241: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=242: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=243: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=244: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=245: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=246: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=247: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=248: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=249: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=250: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=251: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=252: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=253: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=254: most common best_dist=burr (across 72 windows)
+For SHI (Nh=7), doy=255: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=256: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=257: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=258: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=259: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=260: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=261: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=262: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=263: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=264: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=265: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=266: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=267: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=268: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=269: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=270: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=271: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=272: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=273: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=274: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=275: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=276: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=277: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=278: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=279: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=280: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=281: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=282: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=283: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=284: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=285: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=286: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=287: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=288: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=289: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=290: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=291: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=292: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=293: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=294: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=295: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=296: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=297: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=298: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=299: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=300: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=301: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=302: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=303: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=304: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=305: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=306: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=307: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=308: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=309: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=310: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=311: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=312: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=313: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=314: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=315: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=316: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=317: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=318: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=319: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=320: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=321: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=322: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=323: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=324: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=325: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=326: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=327: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=328: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=329: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=330: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=331: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=332: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=333: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=334: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=335: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=336: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=337: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=338: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=339: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=340: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=341: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=342: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=343: most common best_dist=genextreme (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 6902
+    lndata = np.log(data - loc)
+RuntimeWarning: invalid value encountered in log
+For SHI (Nh=7), doy=344: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=345: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=346: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=347: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=348: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=349: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=350: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=351: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=352: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=7), doy=353: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=7), doy=354: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=355: most common best_dist=burr (across 72 windows)
+For SHI (Nh=7), doy=356: most common best_dist=burr (across 72 windows)
+For SHI (Nh=7), doy=357: most common best_dist=burr (across 72 windows)
+For SHI (Nh=7), doy=358: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=359: most common best_dist=norm (across 72 windows)
+For SHI (Nh=7), doy=360: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=361: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=362: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=363: most common best_dist=gamma (across 72 windows)
+For SHI (Nh=7), doy=364: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=7), doy=365: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=1: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=2: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=3: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=4: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=5: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=6: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=7: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=8: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=9: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=10: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=11: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=12: most common best_dist=norm (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+For SHI (Nh=10), doy=13: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=14: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=15: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=16: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=17: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=18: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=19: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=20: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=21: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=22: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=23: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=24: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=25: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=26: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=27: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=28: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=29: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=30: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=31: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=32: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=33: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=34: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=35: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=36: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=37: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=38: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=39: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=40: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=41: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=42: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=43: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=44: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=45: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=46: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=47: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=48: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=49: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=50: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=51: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=52: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=53: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=54: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=55: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=56: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=57: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=58: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=59: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=60: most common best_dist=burr (across 54 windows)
+For SHI (Nh=10), doy=61: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=62: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=63: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=64: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=65: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=66: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=67: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=68: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=69: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=70: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=71: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=72: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=73: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=74: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=75: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=76: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=77: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=78: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=79: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=80: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=81: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=82: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=83: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=84: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=85: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=86: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=87: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=88: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=89: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=90: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=91: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=92: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=93: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=94: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=95: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=96: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=97: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=98: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=99: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=100: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=101: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=102: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=103: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=104: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=105: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=106: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=107: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=108: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=109: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=110: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=111: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=112: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=113: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=114: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=115: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=116: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=117: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=118: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=119: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=120: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=121: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=122: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=123: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=124: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=125: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=126: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=127: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=128: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=129: most common best_dist=norm (across 73 windows)
+For SHI (Nh=10), doy=130: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=10), doy=131: most common best_dist=logistic (across 73 windows)
+For SHI (Nh=10), doy=132: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=133: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=134: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=135: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=136: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=137: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=138: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=139: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=140: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=141: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=142: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=143: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=144: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=145: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=146: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=147: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=148: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=149: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=150: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=151: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=152: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=153: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=154: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=155: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=156: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=157: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=158: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=159: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=160: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=161: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=162: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=163: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=164: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=165: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=166: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=167: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=168: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=169: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=170: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=171: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=172: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=173: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=174: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=175: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=176: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=177: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=178: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=179: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=180: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=181: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=182: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=183: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=184: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=185: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=186: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=187: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=188: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=189: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=190: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=191: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=192: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=193: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=194: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=195: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=196: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=197: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=198: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=199: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=200: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=201: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=202: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=203: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=204: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=205: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=206: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=207: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=208: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=209: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=210: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=211: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=212: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=213: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=214: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=215: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=216: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=217: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=218: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=219: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=220: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=221: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=222: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=223: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=224: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=225: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=226: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=227: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=228: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=229: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=230: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=231: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=232: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=233: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=234: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=235: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=236: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=237: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=238: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=239: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=240: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=241: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=242: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=243: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=244: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=245: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=246: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=247: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=248: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=249: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=250: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=251: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=252: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=253: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=254: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=255: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=256: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=257: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=258: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=259: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=260: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=261: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=262: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=263: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=264: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=265: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=266: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=267: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=268: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=269: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=270: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=271: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=272: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=273: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=274: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=275: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=276: most common best_dist=burr (across 72 windows)
+For SHI (Nh=10), doy=277: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=278: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=279: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=280: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=281: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=282: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=283: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=284: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=285: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=286: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=287: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=288: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=289: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=290: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=291: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=292: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=293: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=294: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=295: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=296: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=297: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=298: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=299: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=300: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=301: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=302: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=303: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=304: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=305: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=306: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=307: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=308: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=309: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=310: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=311: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=312: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=313: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=314: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=315: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=316: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=317: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=318: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=319: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=320: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=321: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=322: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=323: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=324: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=325: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=326: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=327: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=328: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=329: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=330: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=331: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=332: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=333: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=334: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=335: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=336: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=337: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=338: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=339: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=340: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=341: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=342: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=343: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=344: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=345: most common best_dist=genextreme (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 6902
+    lndata = np.log(data - loc)
+RuntimeWarning: invalid value encountered in log
+For SHI (Nh=10), doy=346: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=347: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=348: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=10), doy=349: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=350: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=351: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=352: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=353: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=354: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=10), doy=355: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=356: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=357: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=358: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=359: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=360: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=361: most common best_dist=norm (across 72 windows)
+For SHI (Nh=10), doy=362: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=363: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=364: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=10), doy=365: most common best_dist=gumbel_r (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 1204
+    - sc.xlog1py(d_+1, x_**(-c_))))
+RuntimeWarning: overflow encountered in power
+For SHI (Nh=15), doy=1: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=2: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=3: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=4: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=5: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=6: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=7: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=8: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=9: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=10: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=11: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=12: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=13: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=14: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=15: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=16: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=17: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=18: most common best_dist=burr (across 72 windows)
+For SHI (Nh=15), doy=19: most common best_dist=burr (across 72 windows)
+For SHI (Nh=15), doy=20: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=21: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=22: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=23: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=24: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=25: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=26: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=27: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=28: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=29: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=30: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=31: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=32: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=33: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=34: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=35: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=36: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=37: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=38: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=39: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=40: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=41: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=42: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=43: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=44: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=45: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=46: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=47: most common best_dist=burr (across 72 windows)
+For SHI (Nh=15), doy=48: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=49: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=50: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=51: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=52: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=53: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=54: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=55: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=56: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=57: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=58: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=59: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=60: most common best_dist=logistic (across 54 windows)
+For SHI (Nh=15), doy=61: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=62: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=63: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=64: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=65: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=66: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=67: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=68: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=69: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=70: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=71: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=72: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=73: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=74: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=75: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=76: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=77: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=78: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=79: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=80: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=81: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=82: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=83: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=84: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=85: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=86: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=87: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=88: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=89: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=90: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=91: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=92: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=93: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=94: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=95: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=96: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=97: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=98: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=99: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=100: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=101: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=102: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=103: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=104: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=105: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=106: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=107: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=108: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=109: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=110: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=111: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=112: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=113: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=114: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=115: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=116: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=117: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=118: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=119: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=120: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=121: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=122: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=123: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=124: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=125: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=126: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=127: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=128: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=129: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=130: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=131: most common best_dist=norm (across 73 windows)
+For SHI (Nh=15), doy=132: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=133: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=134: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=135: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=136: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=137: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=138: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=139: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=140: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=141: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=142: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=143: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=144: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=145: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=146: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=147: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=148: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=149: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=150: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=151: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=152: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=153: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=154: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=155: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=156: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=157: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=158: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=159: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=160: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=161: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=162: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=163: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=164: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=165: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=166: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=167: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=168: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=169: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=170: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=171: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=172: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=173: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=174: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=175: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=176: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=177: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=178: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=179: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=180: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=181: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=182: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=183: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=184: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=185: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=186: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=187: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=188: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=189: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=190: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=191: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=192: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=193: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=194: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=195: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=196: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=197: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=198: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=199: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=200: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=201: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=202: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=203: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=204: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=205: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=206: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=207: most common best_dist=expon (across 72 windows)
+For SHI (Nh=15), doy=208: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=209: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=210: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=211: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=212: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=213: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=214: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=215: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=216: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=217: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=218: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=219: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=220: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=221: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=222: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=223: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=224: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=225: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=226: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=227: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=228: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=229: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=230: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=231: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=232: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=233: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=234: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=235: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=236: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=237: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=238: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=239: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=240: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=241: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=242: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=243: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=244: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=245: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=246: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=247: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=248: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=249: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=250: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=251: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=252: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=253: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=254: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=255: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=256: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=257: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=258: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=259: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=260: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=261: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=262: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=263: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=264: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=265: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=266: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=267: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=268: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=269: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=270: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=271: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=272: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=273: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=274: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=275: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=276: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=277: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=278: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=279: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=280: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=281: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=282: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=283: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=284: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=285: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=286: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=287: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=288: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=289: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=290: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=291: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=292: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=293: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=294: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=295: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=296: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=297: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=298: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=299: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=300: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=301: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=302: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=303: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=304: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=305: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=306: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=307: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=308: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=309: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=310: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=311: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=312: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=313: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=314: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=315: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=316: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=317: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=318: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=319: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=320: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=321: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=322: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=323: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=324: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=325: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=326: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=327: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=328: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=329: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=330: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=331: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=332: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=333: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=334: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=335: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=336: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=337: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=338: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=339: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=340: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=341: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=342: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=343: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=344: most common best_dist=genextreme (across 72 windows)
+For SHI (Nh=15), doy=345: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=346: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=347: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=348: most common best_dist=burr (across 72 windows)
+
+Warning (from warnings module):
+  File "C:\Users\FarZad\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\stats\_continuous_distns.py", line 6902
+    lndata = np.log(data - loc)
+RuntimeWarning: invalid value encountered in log
+For SHI (Nh=15), doy=349: most common best_dist=burr (across 72 windows)
+For SHI (Nh=15), doy=350: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=351: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=352: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=353: most common best_dist=burr (across 72 windows)
+For SHI (Nh=15), doy=354: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=355: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=356: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=357: most common best_dist=logistic (across 72 windows)
+For SHI (Nh=15), doy=358: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=359: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=360: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=361: most common best_dist=gumbel_r (across 72 windows)
+For SHI (Nh=15), doy=362: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=363: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=364: most common best_dist=norm (across 72 windows)
+For SHI (Nh=15), doy=365: most common best_dist=norm (across 72 windows)
